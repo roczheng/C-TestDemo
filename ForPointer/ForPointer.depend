@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508138383 source:e:\chinaunicom\c++ testdemo\forpointer\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+

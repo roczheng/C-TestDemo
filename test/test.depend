@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1503558660 source:e:\chinaunicom\c++ testdemo\test\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<unistd.h>
+	<cstdio>
+	<typeinfo>
+	<time.h>
+	<sys/timeb.h>
+	<CString>
+	<CWchar>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

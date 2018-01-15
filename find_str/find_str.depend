@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1497839082 source:e:\chinaunicom\c++ testdemo\find_str\main.cpp
+	<iostream>
+	"string"
+	<cctype>
+	<algorithm>
+	<vector>
+
