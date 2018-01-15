@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1515994814 source:e:\chinaunicom\c++ testdemo\process_contr\main.cpp
+	"stdafx_h/StdAfx.h"
+	<Windows.h>
+	"stdafx_h/Winternl.h"
+	<iostream>
+
+1440170744 e:\chinaunicom\c++ testdemo\process_contr\stdafx_h\stdafx.h
+	"stdio.h"
+	<windows.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+
+1515994341 e:\chinaunicom\c++ testdemo\process_contr\stdafx_h\winternl.h
+	"windef.h"
+
