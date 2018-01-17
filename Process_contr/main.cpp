@@ -1,6 +1,7 @@
 #include "stdafx_h/StdAfx.h"
+#include "stdafx_h/Winternl.h"
 #include <Windows.h>
-#include "winternl.h"
+//#include "winternl.h"
 #include <iostream>
 
 using namespace std;

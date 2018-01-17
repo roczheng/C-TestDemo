@@ -46,11 +46,11 @@ typedef CONST char *PCSZ;
 typedef short CSHORT;
 typedef CSHORT *PCSHORT;
 
-typedef struct _STRING {
+typedef struct _STRING_ {
   USHORT Length;
   USHORT MaximumLength;
   PCHAR Buffer;
-} STRING, *PSTRING;
+} STRING_, *PSTRING_;
 
 typedef STRING ANSI_STRING;
 typedef PSTRING PANSI_STRING;
